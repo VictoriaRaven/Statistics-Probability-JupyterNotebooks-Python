@@ -33,6 +33,5 @@ who participated in this project.
 - [Google Scholar](https://scholar.google.com/)
 - [Wikipedia](https://www.wikipedia.org/)
 - [UMGC Library](https://libguides.umgc.edu/home)
-- [UMGC Library](https://libguides.umgc.edu/home)
  - Thank you!
  - VictoriaRaven
