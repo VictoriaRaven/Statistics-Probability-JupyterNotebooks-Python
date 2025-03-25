@@ -14,6 +14,7 @@ JupyterNotebooks in python from my statistics and probability class of Math 32. 
 ### Textbook
 - F. M. Dekking, C. Kraaikamp, H. P. Lopuhaa, and L. E. Meester, *Modern Introduction to Probability and Statistics*, 2005. [Online Textbook Avalible.](http://link.springer.com/book/10.1007/1-84628-168-7). [Accessed: 2023].
 - K. Rosen, *Discrete Mathematics and Its Applications, 8th ed.*, McGraw-Hill Education, Jul. 9, 2018. [Online Textbook Available](https://www.mheducation.com/highered/product/Discrete-Mathematics-and-Its-Applications-Rosen.html). [Accessed: n.d.]
+- Bradley N. Miller, David L. Ranum, and Julie Anderson, *Python Programming in Context*, 3rd ed., Jones & Bartlett Learning, Oct. 2019. [Online Textbook Available](Available: https://www.oreilly.com/library/view/python-programming-in/9781284175578/.)
 
 ### Contact
 
